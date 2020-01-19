@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\CashControl1\CashControl1\bin\Debug\CashControl1.exe.config
+C:\Users\User\source\repos\CashControl1\CashControl1\bin\Debug\CashControl1.exe
+C:\Users\User\source\repos\CashControl1\CashControl1\bin\Debug\CashControl1.pdb
+C:\Users\User\source\repos\CashControl1\CashControl1\obj\Debug\CashControl1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CashControl1\CashControl1\obj\Debug\CashControl1.Form1.resources
+C:\Users\User\source\repos\CashControl1\CashControl1\obj\Debug\CashControl1.Properties.Resources.resources
+C:\Users\User\source\repos\CashControl1\CashControl1\obj\Debug\CashControl1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CashControl1\CashControl1\obj\Debug\CashControl1.exe
+C:\Users\User\source\repos\CashControl1\CashControl1\obj\Debug\CashControl1.pdb
